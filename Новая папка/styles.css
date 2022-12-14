@@ -1,0 +1,49 @@
+
+table{
+   background-image: url(rusalka.jpg.webp);
+   background-size:cover;
+   background-attachment: fixed;
+    border: spacing 100px; 
+    border-radius: 20px;
+    border-color: darkslategrey;
+    font-size: 50px;
+    margin: 100px auto;
+    padding: 20px 20px 9px;
+    box-shadow: 0px 4px #009de4, 0px 10px 15px rgba(0, 0, 0, 0.2);
+}
+td{
+width: 30px; 
+height: 30px;
+border-color: darkslategrey;
+text-shadow: 1px 1px 2px rgba(0, 0, 0, 0.2);
+
+}
+.th1{
+    background-color: darkgray;
+   
+}
+.td1{
+    background-color: darksalmon;
+    opacity: 0.7;
+}
+th,td{
+    border-radius: 20px;
+    text-align: center;
+    padding-top: 50px;
+    
+    box-shadow: 0px 4px gold , 0px 10px 15px rgba(0, 0, 0, 0.2);
+
+}
+.object{
+    background-color: coral;
+    opacity: 0.7;
+}
+.eguals{
+    background-color: rgb(6, 27, 59);
+    opacity: 0.7;
+}
+.td2{
+    background-color: cornflowerblue;
+   
+}
+
